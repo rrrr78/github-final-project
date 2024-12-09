@@ -11,3 +11,5 @@ A simple calculator that calculates **simple interest** given the following inpu
 - **Simple interest** = `p * t * r`
 
 This is a part of the micro-finance startup's initiative to empower individuals by providing easy-to-use financial tools.
+
+2023 XYZ, Inc.

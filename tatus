@@ -1,0 +1,29 @@
+[33mcommit 3996fd904e38d212131a7ebcb0cb4cc1ea431deb[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: rrrr78 <rana2005vv@gmail.com>
+Date:   Mon Dec 9 22:39:27 2024 +0300
+
+    Add simple-interest.sh script
+
+[33mcommit 6ec19e878f6cfd2bba09a8e96dadbcb4cdc2f590[m
+Author: rrrr78 <rana2005vv@gmail.com>
+Date:   Mon Dec 9 20:36:56 2024 +0300
+
+    Create simple-interest.sh
+
+[33mcommit a176dc9865c98b79510894483c87f95688dd807f[m
+Author: rrrr78 <rana2005vv@gmail.com>
+Date:   Mon Dec 9 20:23:12 2024 +0300
+
+    Create CONTRIBUTING.md
+
+[33mcommit 355dfe1174e9018762005209e002a95663d4c255[m
+Author: rrrr78 <rana2005vv@gmail.com>
+Date:   Mon Dec 9 20:20:34 2024 +0300
+
+    Update README.md
+
+[33mcommit f8f676d0e8a72443a00faaf6ba8b63a8bcf16e2f[m
+Author: rrrr78 <rana2005vv@gmail.com>
+Date:   Mon Dec 9 20:18:35 2024 +0300
+
+    Initial commit
